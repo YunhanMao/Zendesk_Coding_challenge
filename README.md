@@ -9,4 +9,4 @@ This project is based on Java and successfully connects the API from Zendesk to 
 
 The credentials needed for the requests are stored in credentials.properties under resources folder.
 
-To test this project, simply use IntelliJ IDEA to firstly install the pom.xml dependencie. And run main.java to see the CLI of the tickets.
+To test this project, simply use IntelliJ IDEA to firstly install the pom.xml dependencies. And run main.java to see the CLI of the tickets.
